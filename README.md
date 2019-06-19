@@ -8,5 +8,5 @@
   * student-mat.csv
 
 **Algorithms implemented by**:
-  * Prodromos Polychroniadis (@propol)
-  * Lampros Karavidas (@karavidas)
+  - Prodromos Polychroniadis (github: [@propol](https://github.com/propol "Prodromos Polychroniadis Github"))
+  - Lampros Karavidas (github: [@karavidas](https://github.com/karavidas "Lampros Karavidas Github"))
