@@ -7,6 +7,12 @@
   * student-por.csv
   * student-mat.csv
 
+**Algorithms used**:
+  * (Multiple) Linear Regression
+  * Decison Trees
+  * Logistic Regression (Binary)
+  * Logistic Regression (Ordinal)
+
 **Algorithms implemented by**:
   - Prodromos Polychroniadis (github: [@propol](https://github.com/propol "Prodromos Polychroniadis Github"))
   - Lampros Karavidas (github: [@karavidas](https://github.com/karavidas "Lampros Karavidas Github"))
